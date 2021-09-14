@@ -1,10 +1,10 @@
-/*
+/*******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
- * Última revisión: 17 de septiembre de 2019
+ * Última revisión: 14 de septiembre de 2021
  * Resumen: Programa que solicita al usuario la longitud de un radio y escribe 
  *          en la pantalla el área del círculo correspondiente.
- */
+ ******************************************************************************/
 #include <iostream>
 using namespace std;
 

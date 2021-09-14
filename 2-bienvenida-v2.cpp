@@ -1,9 +1,10 @@
-/*
+/*******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre y Javier Martínez
- * Última revisión: 17 de septiembre de 2019
- * Resumen: Programa que escribe un mensaje de bienvenida (versión 1)
- */
+ * Última revisión: 14 de septiembre de 2021
+ * Resumen: Programa que escribe un mensaje de bienvenida (versión 2)
+ ******************************************************************************/
+
 #include <iostream>
 using namespace std;
 

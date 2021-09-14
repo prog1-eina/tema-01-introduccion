@@ -1,11 +1,11 @@
-/*
+/*******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
- * Última revisión: 16 de septiembre de 2020
+ * Última revisión: 14 de septiembre de 2021
  * Resumen: Programa que solicita al usuario el número de lados de un polígono
  *          regular y la longitud de sus lados y escribe en la pantalla el área 
  *          de dicho polígono regular.
- */
+ ******************************************************************************/
 #include <iostream>
 using namespace std;
 
