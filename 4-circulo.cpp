@@ -1,10 +1,10 @@
-/*******************************************************************************
+/******************************************************************************
  * Curso de Programación 1. Tema 1
  * Autores: Miguel Ángel Latre
  * Última revisión: 15 de septiembre de 2022
  * Resumen: Programa que solicita al usuario la longitud de un radio y escribe 
  *          en la pantalla el área del círculo correspondiente.
- ******************************************************************************/
+ *****************************************************************************/
 #include <iostream>
 using namespace std;
 
@@ -12,7 +12,7 @@ const double PI = 3.14159265358979323846;
 
 /*
  * Programa que solicita al usuario la longitud de un radio y escribe en la
- * pantalla el área del círculo corresondiente.
+ * pantalla el área del círculo correspondiente.
  */
 int main() {
     cout << "Escriba el radio de un círculo: ";
